@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="apptittle">YUK LES</string>
+    <string name="bidang">085xxxx</string>
+    <string name="nama">Masukkan Nama</string>
+    <string name="tl_bidang">NIK</string>
+    <string name="tl_nama">Nama Lengkap</string>
+    <string name="status">Status</string>
+    <string name="siswa">Siswa</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="presentaseKecemasan">Persentase Kecemasan</string>
+    <string name="reset">RESET</string>
+    <string name="submit">SUBMIT</string>
+    <string name="sukses">Success!</string>
+    <string name="isi_alert">Data registrasi Anda berhasil dikirim dengan rincian sebagai berikut.</string>
+    <string name="rincian">Rincian Registrasi</string>
+    <string name="list">List Data Lainnya</string>
+    <string name="hapus">Hapus Data</string>
+    <string name="batal">Batal</string>
+</resources>
